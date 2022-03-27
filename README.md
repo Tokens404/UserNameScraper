@@ -29,6 +29,4 @@
 --------------------------------------- 
 
 ### Credits `Void Dev`
--  **[Sellix](https://voidtools.sellix.io)**
--  **[Discord](https://discord.gg/voidtools)**
--  **[Telegram](https://t.me/voiddev1337)**
+>  **[Sellix](https://voidtools.sellix.io)** | **[Discord](https://discord.gg/voidtools)** | **[Telegram](https://t.me/voiddev1337)**
