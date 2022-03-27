@@ -25,3 +25,10 @@
 5. pip install names
 6. python usernames.py
 ```
+
+--------------------------------------- 
+
+### Credits `Void Dev`
+-  **[Sellix](https://voidtools.sellix.io)**
+-  **[Discord](https://discord.gg/voidtools)**
+-  **[Telegram](https://t.me/voiddev1337)**
